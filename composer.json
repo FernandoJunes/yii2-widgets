@@ -1,0 +1,21 @@
+{
+    "name": "FernandoJunes/yii2-widgets",
+    "description": "First time create repository. This is just a testing.",
+    "keywords": [""],
+    "homepage": "https://github.com/kartik-v/yii2-widgets",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Fernando Junes",
+            "email": "fernandojunes@gmail.com",            
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "dev-master",
+        "yiisoft/yii2-bootstrap": "dev-master",
+    },
+    "autoload": {
+        "psr-4": {"fernando\\": ""}
+    }
+}
